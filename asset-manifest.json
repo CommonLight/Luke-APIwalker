@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Luke-APIwalker/static/css/main.073c9b0a.css",
+    "main.js": "/Luke-APIwalker/static/js/main.63ddb7ef.js",
+    "static/js/787.3123f5eb.chunk.js": "/Luke-APIwalker/static/js/787.3123f5eb.chunk.js",
+    "static/media/logo.svg": "/Luke-APIwalker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Luke-APIwalker/index.html",
+    "main.073c9b0a.css.map": "/Luke-APIwalker/static/css/main.073c9b0a.css.map",
+    "main.63ddb7ef.js.map": "/Luke-APIwalker/static/js/main.63ddb7ef.js.map",
+    "787.3123f5eb.chunk.js.map": "/Luke-APIwalker/static/js/787.3123f5eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.63ddb7ef.js"
+  ]
+}
